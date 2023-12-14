@@ -5,7 +5,7 @@
 </head>
 
 <body bgcolor="#7FFF00">
-    <h1>Akeem is my teacher</h1>
+    <h1>Akeem My Blooda, We going to the Moon!</h1>
     <!--Form declaration. Must have an action attribute -->
     <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
         <p>Let us learn something about your music lifestyle </p> <!--This control is for mutplie line comment-->
