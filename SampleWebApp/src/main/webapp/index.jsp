@@ -4,7 +4,7 @@
     <title>Welcome to my New java project this year 2023</title>
 </head>
 
-<body bgcolor="#7FFF00">
+<body bgcolor="#FFA500">
     <h1>Akeem My Blooda, We going to the Moon!</h1>
     <!--Form declaration. Must have an action attribute -->
     <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
